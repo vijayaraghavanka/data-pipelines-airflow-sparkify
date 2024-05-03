@@ -19,7 +19,6 @@ Project files
 │   ├── final_project.py
 └── plugins
     ├── operators
-    │   ├── create_table.py
     │   ├── stage_redshift.py
     │   ├── load_fact.py
     │   ├── load_dimension.py
