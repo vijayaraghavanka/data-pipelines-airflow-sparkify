@@ -12,11 +12,11 @@ Song data: s3://udacity-dend/song_data copied to a bucket owned by me
 Log data: s3://udacity-dend/log_data copied to a bucket owned by me
 Log data json path: s3://udacity-dend/log_json_path.json copied to a bucket owned by me
 
+
 Project files
 ├── create_tables.sql
 ├── dags
-│   ├── create_tables_dag.py
-│   └── process_data_dag.py
+│   ├── final_project.py
 └── plugins
     ├── operators
     │   ├── create_table.py
